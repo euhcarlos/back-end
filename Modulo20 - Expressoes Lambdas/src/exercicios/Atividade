@@ -1,0 +1,10 @@
+O que são expressões lambdas?
+- Expressos lambdas são usadas para simplificar codigos, tornando a metodo de criação mais rapido
+- Torna mais rapido e facil reutilizar codigosqu
+Qual a diferença dela para outras expressões?
+- São anonimas, são usadas sem nome apenas para pequenas funções onde precisa
+- Ela permite escrever menos codigo para tarefas
+- Elas são limitadas onde foram definidas
+- São boas para reutilização de trechos de codigo
+
+Exemplos de uso:
